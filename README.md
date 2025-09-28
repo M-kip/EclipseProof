@@ -99,7 +99,7 @@ This integrated application consists of:
 - 🔍 **Privacy Invasion**: Verifiers see exact salaries, employer names, and personal data
 - � **Security Risk**: Sensitive documents can be misused or data breached
 - ⏱️ **Manual Process**: Time-consuming document review and verification
--    **Anonymity**: Users can share their data without disclosing who they are.
+-    **Anonymity**: Users can share their data without disclosing who they are for example proving you meet a certain criteria.
 
 ### EclipseProof Solution:
 
